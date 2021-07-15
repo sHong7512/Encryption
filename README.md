@@ -218,7 +218,7 @@ map["iv"] = ivBytes
 map["encrypted"] = encryptedBytes
 ```
 
-9. Decrypting keystore data
+10. Decrypting keystore data
 
 ```
 val keyStore = KeyStore.getInstance("AndroidKeyStore")
